@@ -1,4 +1,4 @@
-# 🌳 송이의 숲 
+# 🌳 송이의 숲 ❄️
 ### 숙명 눈송이만을 위한 챌린지 쉐어 플랫폼
 <img width="1920" alt="발표자료1" src="https://github.com/Songyee-Challenge/.github/assets/102468718/b53cba07-c8b2-4151-8f14-0c8095e56108">
 <img width="1920" alt="발표자료1(2)" src="https://github.com/Songyee-Challenge/.github/assets/102468718/30627df5-6beb-46a9-9cb2-72f8b88e61ac">
