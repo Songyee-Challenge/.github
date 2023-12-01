@@ -1,5 +1,6 @@
 # 🌳 송이의 숲 ❄️
 ## 숙명 눈송이만을 위한 챌린지 쉐어 플랫폼
+[송이의숲 바로가기](http://13.53.212.211:3000)
 [인스타그램 바로가기](https://www.instagram.com/songyee_challenge/)
 
 <img width="1920" src="https://github.com/Songyee-Challenge/.github/assets/102468718/b53cba07-c8b2-4151-8f14-0c8095e56108">
